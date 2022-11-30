@@ -1,7 +1,4 @@
-/** NOTE: THIS SPACE WILL BE UPDATED. ONLY FOR PEOPLE WHO WANT TO WORK OVER THANKSGIVING
- *  
- *  
- */
+
 
 
 import javadraw.*;
